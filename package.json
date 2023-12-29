@@ -1,5 +1,5 @@
 {
-  "name": "typescript-for-javascript-developer",
+  "name": "typescript-for-javascript-developers",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,8 @@
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
   }
 }
